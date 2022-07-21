@@ -1,0 +1,65 @@
+#barra{
+    text-decoration: none;
+    color: black;
+}
+
+#barra:hover{
+    transform: scale(1.05);
+}
+
+#contenidow{
+    color: black;
+    text-decoration: none;
+}
+
+#contenidob{
+    color: #DD8E2A;
+    text-decoration: none;
+}
+
+#descarga{
+    text-decoration: none;
+    color: #DD8E2A;
+}
+
+#descarga:hover{
+    color: aliceblue;
+}
+
+nav h2{
+    color: black;
+}
+
+#navbarNavAltMarkup{
+    padding-right: 25px;
+    color: black;
+}
+
+.flex-center{
+    display: flex;
+    justify-content: center;
+}
+
+main img{
+    display: flex;
+    justify-content: center;
+}
+
+main div p{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 10px;
+}
+
+main h3{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+menu{
+    color: #9C8B60;
+}
+
+figure img{
+    height: 80%;
+}
