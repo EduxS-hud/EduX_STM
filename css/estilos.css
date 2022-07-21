@@ -17,20 +17,20 @@
     text-decoration: none;
 }
 
+#contenidow:hover{
+    color: aliceblue;
+}
+
+#contenidob:hover{
+    color: aliceblue;
+}
+
 #descarga{
     text-decoration: none;
     color: #DD8E2A;
 }
 
 #descarga:hover{
-    color: aliceblue;
-}
-
-#contenidow:hover{
-    color: aliceblue;
-}
-
-#contenidob:hover{
     color: aliceblue;
 }
 
