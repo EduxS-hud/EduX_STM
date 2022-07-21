@@ -26,6 +26,10 @@
     color: aliceblue;
 }
 
+#inicioimg:hover{
+    color : aliceblue;
+}
+
 nav h2{
     color: black;
 }
